@@ -1,0 +1,7 @@
+Django==1.11.17
+Faker==1.0.0
+ipaddress==1.0.22
+python-dateutil==2.7.5
+pytz==2018.7
+six==1.12.0
+text-unidecode==1.2
